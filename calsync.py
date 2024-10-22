@@ -1,3 +1,6 @@
+"""
+Inserts a two-week schedule of events into a Google Calendar using the Google Calendar API.
+"""
 from __future__ import print_function
 import datetime
 import os
